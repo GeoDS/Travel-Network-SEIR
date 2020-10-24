@@ -21,11 +21,11 @@ https://geods.geography.wisc.edu/covid19/us_model/
 ### The impacts of confirmed case reporting rate and quick isolation on susceptible population:
 <p align="center">
   <a href="https://geods.geography.wisc.edu/covid19/us_model/">
-    <img src="images/top15_sigma5_beta0_gamma05_new.png" alt="Report" >
+    <img src="images/fig3_top15_sigma5_beta0_gamma05_new.png" alt="Report" >
   </a>
 </p>
 <p align="center">
   <a href="https://geods.geography.wisc.edu/covid19/us_model/">
-    <img src="images/S_top15_sigma10_beta0_gamma05_new.png" alt="Delay" >
+    <img src="images/fig3_S_top15_sigma10_beta0_gamma05_new.png" alt="Delay" >
   </a>
 </p>
