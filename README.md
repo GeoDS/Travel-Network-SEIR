@@ -3,7 +3,7 @@
 ### Code and Data
 `./code/` contains the source codes: to run the travel flow-network SEIR-style ODE system for epidemic modeling.
 
-`./data/` contains the data file to run the traditional and dynamic Huff models.
+`./data/` contains the data files to reproduce the model results.
 
 **Reference**: Shi Chen, Qin Li, Song Gao, Yuhao Kang, & Xun Shi (2020). State-specific Projection of COVID-19 Infection in the United States and Evaluation of Three Major Control Measures. *Scientic Reports* (in review), preprint available at https://scientific-reports-under-consideration.nature.com/posts/state-specific-projection-of-covid-19-infection-in-the-united-states-and-evaluation-of-three-major-control-measures.
 
