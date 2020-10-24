@@ -12,3 +12,8 @@ Most models of the COVID-19 pandemic in the United States do not consider geogra
 
 ### An interactive map-based scenario simulation Web dashboard using the proposed model:
 https://geods.geography.wisc.edu/covid19/us_model/
+<p align="center">
+  <a href="https://geods.geography.wisc.edu/covid19/us_model/">
+    <img src="images/web_simulation_dashboard.png" alt="Dashboard" >
+  </a>
+</p>
