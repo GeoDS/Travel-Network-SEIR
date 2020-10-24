@@ -14,19 +14,19 @@ Most models of the COVID-19 pandemic in the United States do not consider geogra
 https://geods.geography.wisc.edu/covid19/us_model/
 <p align="center">
   <a href="https://geods.geography.wisc.edu/covid19/us_model/">
-    <img src="images/web_simulation_dashboard.png" alt="Dashboard" >
+    <img src="images/web_simulation_dashboard.png" alt="Dashboard" width=800>
   </a>
 </p>
 
 ### The impacts of confirmed case reporting rate and quick isolation on susceptible population:
 <p align="center">
   <a href="https://geods.geography.wisc.edu/covid19/us_model/">
-    <img src="images/fig3_top15_sigma10_beta0_gamma05_new.png" alt="Report Rate" >
+    <img src="images/fig3_top15_sigma10_beta0_gamma05_new.png" alt="Report Rate" width=800>
   </a>
 </p>
 
 <p align="center">
   <a href="https://geods.geography.wisc.edu/covid19/us_model/">
-    <img src="images/fig3_S_top15_sigma10_beta0_gamma05_new.png" alt="Delay" >
+    <img src="images/fig3_S_top15_sigma10_beta0_gamma05_new.png" alt="Delay" width=800>
   </a>
 </p>
