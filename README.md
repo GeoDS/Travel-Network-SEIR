@@ -30,3 +30,6 @@ https://geods.geography.wisc.edu/covid19/us_model/
     <img src="images/fig3_S_top15_sigma10_beta0_gamma05_new.png" alt="Delay" width=800>
   </a>
 </p>
+
+### Acknowledgements
+We would like to thank SafeGraph (safegraph.com) for providing the anonymous and aggregated human mobility and place visit data. We would also like to thank all individuals and organizations for collecting and updating the COVID-19 epidemiological data and reports. Funding: S.G. and Q.L. acknowledge the funding support provided by the National Science Foundation (Award No. BCS-2027375). Q.L. and S.C. acknowledge the Data Science Initiative of UW-Madison. X.S. acknowledges the Scholarly Innovation and Advancement Awards of Dartmouth College. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation. 
