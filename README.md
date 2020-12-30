@@ -7,8 +7,20 @@
 
 **Reference**: Shi Chen, Qin Li, Song Gao, Yuhao Kang, & Xun Shi (2020). State-specific Projection of COVID-19 Infection in the United States and Evaluation of Three Major Control Measures. *Scientific Reports*, 10:22429. DOI: 10.1038/s41598-020-80044-3. https://www.nature.com/articles/s41598-020-80044-3.
 
+```
+@article{chen2020state,
+  title     = {State-specific Projection of COVID-19 Infection in the United States and Evaluation of Three Major Control Measures},
+  author    = {Chen, Shi and Li, Qin and Gao, Song and Kang, Yuhao and Shi, Xun},
+  journal   = {Scientific Reports},
+  volumn    = {10},
+  issue     = {22429},
+  pages     = {1--9},
+  year = {2020}
+}
+```
+
 ### Abstract 
-Most models of the COVID-19 pandemic in the United States do not consider geographic variation and spatial interaction. In this research, we developed a travel-network-based susceptible-exposed-infectious-removed (SEIR)  mathematical compartmental model system  that characterizes infections by state and incorporates inflows and outflows of interstate travelers. Modeling reveals that curbing interstate travel when the disease is already widespread will make little difference. Meanwhile, increased testing capacity (facilitating early identification of infected people and quick isolation) and strict social-distancing and self-quarantine rules are most effective in abating the outbreak. The modeling has also produced state-specific information. For example, for New York and Michigan, isolation of persons exposed to the virus needs to be imposed within 2 days to prevent a broad outbreak, whereas for other states this period can be 3.6 days. This model could be used to determine resources needed before safely lifting state policies on social distancing.
+Most models of the COVID-19 pandemic in the United States do not consider geographic variation and spatial interaction. In this research, we developed a travel-network-based susceptible-exposed-infectious-removed (SEIR)  mathematical compartmental model system  that characterizes infections by state and incorporates inflows and outflows of interstate travelers. The state-specific unknown parameters (transmission rate and reporting rate) are inferred using data assimilation. We found that the average reporting rate over all states was only about 22% in March 2020. Modeling reveals that curbing interstate travel when the disease is already widespread will make little difference. Meanwhile, increased testing capacity (facilitating early identification of infected people and quick isolation) and strict social-distancing and self-quarantine rules are most effective in abating the outbreak. The modeling has also produced state-specific information. For example, for New York and Michigan, isolation of persons exposed to the virus needs to be imposed within 2 days to prevent a broad outbreak, whereas for other states this period can be 3.6 days. This model could be used to determine resources needed before safely lifting state policies on social distancing.
 
 ### An interactive map-based scenario simulation Web dashboard using the proposed model:
 https://geods.geography.wisc.edu/covid19/us_model/
