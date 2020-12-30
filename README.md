@@ -43,5 +43,18 @@ https://geods.geography.wisc.edu/covid19/us_model/
   </a>
 </p>
 
+### The inferred reporting rates in several key states in March 2020:
+<p align="center">
+  <a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-020-80044-3/MediaObjects/41598_2020_80044_MOESM1_ESM.pdf">
+    <img src="images/report_rate.png" alt="Report Rate" width=800>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-020-80044-3/MediaObjects/41598_2020_80044_MOESM1_ESM.pdf">
+    <img src="images/report_rate2.png" alt="Delay" width=800>
+  </a>
+</p>
+
 ### Acknowledgements
 We would like to thank SafeGraph (safegraph.com) for providing the anonymous and aggregated human mobility and place visit data. We would also like to thank all individuals and organizations for collecting and updating the COVID-19 epidemiological data and reports. Funding: S.G. and Q.L. acknowledge the funding support provided by the National Science Foundation (Award No. BCS-2027375). Q.L. and S.C. acknowledge the Data Science Initiative of UW-Madison. X.S. acknowledges the Scholarly Innovation and Advancement Awards of Dartmouth College. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation. 
