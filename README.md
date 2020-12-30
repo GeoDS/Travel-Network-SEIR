@@ -43,7 +43,7 @@ https://geods.geography.wisc.edu/covid19/us_model/
   </a>
 </p>
 
-### The inferred reporting rates in several key states in March 2020:
+### The inferred reporting rates in several key states through data assimilation in March 2020:
 <p align="center">
   <a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-020-80044-3/MediaObjects/41598_2020_80044_MOESM1_ESM.pdf">
     <img src="images/report_rate.png" alt="Report Rate" width=800>
